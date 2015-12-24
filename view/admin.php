@@ -6,15 +6,15 @@
 		<meta name = "format-detection" content = "telephone=no" />
 		<link rel="icon" href="images/favicon.ico">
 		<link rel="shortcut icon" href="images/favicon.ico" />
-		<link rel="stylesheet" href="css/style.css">
-		<script src="js/jquery.js"></script>
-		<script src="js/jquery-migrate-1.1.1.js"></script>
-		<script src="js/script.js"></script> 
-		<script src="js/jquery.ui.totop.js"></script>
-		<script src="js/superfish.js"></script>
-		<script src="js/jquery.equalheights.js"></script>
-		<script src="js/jquery.mobilemenu.js"></script>
-		<script src="js/jquery.easing.1.3.js"></script>
+		<link rel="stylesheet" href="../css/style.css">
+		<script src="../js/jquery.js"></script>
+		<script src="../js/jquery-migrate-1.1.1.js"></script>
+		<script src="../js/script.js"></script>
+		<script src="../js/jquery.ui.totop.js"></script>
+		<script src="../js/superfish.js"></script>
+		<script src="../js/jquery.equalheights.js"></script>
+		<script src="../js/jquery.mobilemenu.js"></script>
+		<script src="../js/jquery.easing.1.3.js"></script>
 		<script>
 			$(document).ready(function(){
 				$().UItoTop({ easingType: 'easeOutQuart' });
@@ -28,8 +28,8 @@
 		</div>
 		<![endif]-->
 		<!--[if lt IE 9]>
-			<script src="js/html5shiv.js"></script>
-			<link rel="stylesheet" media="screen" href="css/ie.css">
+		<script src="../js/html5shiv.js"></script>
+		<link rel="stylesheet" media="screen" href="../css/ie.css">
 		<![endif]-->
 	</head>
 	<body class="" id="top">
@@ -40,7 +40,7 @@
 				<div class="grid_12">
 					<h1>
 						<a href="index.html">
-							<img src="images/logo.png" alt="Your Happy Family">
+							<img src="../images/logo.png" alt="Your Happy Family">
 						</a>
 					</h1>
 					<div class="menu_block">

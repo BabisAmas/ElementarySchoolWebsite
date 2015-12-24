@@ -1,20 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>Εσωτερικος Κανονισμος</title>
+		<title>Campaigns</title>
 		<meta charset="utf-8">
 		<meta name = "format-detection" content = "telephone=no" />
 		<link rel="icon" href="images/favicon.ico">
 		<link rel="shortcut icon" href="images/favicon.ico" />
-		<link rel="stylesheet" href="css/style.css">
-		<script src="js/jquery.js"></script>
-		<script src="js/jquery-migrate-1.1.1.js"></script>
-		<script src="js/script.js"></script> 
-		<script src="js/jquery.ui.totop.js"></script>
-		<script src="js/superfish.js"></script>
-		<script src="js/jquery.equalheights.js"></script>
-		<script src="js/jquery.mobilemenu.js"></script>
-		<script src="js/jquery.easing.1.3.js"></script>
+		<link rel="stylesheet" href="../css/style.css">
+		<script src="../js/jquery.js"></script>
+		<script src="../js/jquery-migrate-1.1.1.js"></script>
+		<script src="../js/script.js"></script>
+		<script src="../js/jquery.ui.totop.js"></script>
+		<script src="../js/superfish.js"></script>
+		<script src="../js/jquery.equalheights.js"></script>
+		<script src="../js/jquery.mobilemenu.js"></script>
+		<script src="../js/jquery.easing.1.3.js"></script>
 		<script>
 			$(document).ready(function(){
 				$().UItoTop({ easingType: 'easeOutQuart' });
@@ -28,8 +28,8 @@
 		</div>
 		<![endif]-->
 		<!--[if lt IE 9]>
-			<script src="js/html5shiv.js"></script>
-			<link rel="stylesheet" media="screen" href="css/ie.css">
+		<script src="../js/html5shiv.js"></script>
+		<link rel="stylesheet" media="screen" href="../css/ie.css">
 		<![endif]-->
 	</head>
 	<body class="" id="top">
@@ -40,7 +40,7 @@
 				<div class="grid_12">
 					<h1>
 						<a href="index.html">
-							<img src="images/logo.png" alt="Your Happy Family">
+							<img src="../images/logo.png" alt="Your Happy Family">
 						</a>
 					</h1>
 					<div class="menu_block">
@@ -65,13 +65,29 @@
 <!--==============================Content=================================-->
 			<div class="content"><div class="ic">More Website Templates @ TemplateMonster.com - December 16, 2013!</div>
 				<div class="container_12">
-					<div class="grid_8">
-						<h3>Εσωτερικος Κανονισμος</h3>
-						<img src="images/page4_img1.jpg" alt="" class="img_inner fleft">
-						<div class="extra_wrapper">
-                                                    <p class="p1 col1">Εδω περιγράφεται ο εσωτερικός κανονισμος του σχολείου μας </p>
+					<div class="grid_4">
+					
+						<h3 class="head1">Το διδακτικο προσωπικό του σχολείου μας</h3>
+						<div class="bl1">
+							<div class="blog">
+								<img src="../images/page3_img4.jpg" alt="" class="img_inner fleft">
+								<div class="extra_wrapper">
+									<div class="title"><a href="#"> Mark Johnson </a></div>Δασκαλος 
+								</div>
+							</div>
+							<div class="blog">
+								<img src="../images/page3_img5.jpg" alt="" class="img_inner fleft">
+								<div class="extra_wrapper">
+									<div class="title"><a href="#"> Ann Parker</a></div>Δασκαλα Αγγλικών
+								</div>
+							</div>
+							<div class="blog">
+								<img src="../images/page3_img6.jpg" alt="" class="img_inner fleft">
+								<div class="extra_wrapper">
+									<div class="title"><a href="#"> Emily Willson</a></div>Δασκάλα γυμναστικης
+								</div>
+							</div>
 						</div>
-						<div class="clear"></div>
 					</div>
 				</div>
 			</div>

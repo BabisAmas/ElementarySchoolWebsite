@@ -4,20 +4,20 @@
 		<title>ΑΡΧΙΚΗ</title>
 		<meta charset="utf-8">
 		<meta name = "format-detection" content = "telephone=no" />
-		<link rel="stylesheet" href="css/owl.carousel.css">
-		<link rel="stylesheet" href="css/slider.css">
-		<link rel="stylesheet" href="css/style.css">
-            	<script src="js/jquery.js"></script>
-		<script src="js/jquery-migrate-1.1.1.js"></script>
-		<script src="js/script.js"></script>
-		<script src="js/jquery.ui.totop.js"></script>
-		<script src="js/superfish.js"></script>
-		<script src="js/jquery.equalheights.js"></script>
-		<script src="js/jquery.mobilemenu.js"></script>
-		<script src="js/jquery.easing.1.3.js"></script>
-		<script src="js/owl.carousel.js"></script>
-		<script src="js/jquery.flexslider-min.js"></script>
-		<script src="js/kwiks.js"></script>
+		<link rel="stylesheet" href="../css/owl.carousel.css">
+		<link rel="stylesheet" href="../css/slider.css">
+		<link rel="stylesheet" href="../css/style.css">
+            	<script src="../js/jquery.js"></script>
+		<script src="../js/jquery-migrate-1.1.1.js"></script>
+		<script src="../js/script.js"></script>
+		<script src="../js/jquery.ui.totop.js"></script>
+		<script src="../js/superfish.js"></script>
+		<script src="../js/jquery.equalheights.js"></script>
+		<script src="../js/jquery.mobilemenu.js"></script>
+		<script src="../js/jquery.easing.1.3.js"></script>
+		<script src="../js/owl.carousel.js"></script>
+		<script src="../js/jquery.flexslider-min.js"></script>
+		<script src="../js/kwiks.js"></script>
 		<script>
 			$(document).ready(function(){
 				$().UItoTop({ easingType: 'easeOutQuart' });
@@ -77,8 +77,8 @@
 		</div>
 		<![endif]-->
 		<!--[if lt IE 9]>
-		<script src="js/html5shiv.js"></script>
-		<link rel="stylesheet" media="screen" href="css/ie.css">
+		<script src="../js/html5shiv.js"></script>
+		<link rel="stylesheet" media="screen" href="../css/ie.css">
 		<![endif]-->
 	</head>
 	<body class="page1" id="top">
@@ -92,7 +92,7 @@
 				<div class="grid_12">
                                     <h1>
                                             <a href="index.php">
-                                                <img src="images/kladi.png" alt="kladi"style="width:110px;height:50px;">
+                                                <img src="../images/kladi.png" alt="kladi" style="width:110px;height:50px;">
                                             </a>
 					</h1>
 					<div class="menu_block">
@@ -121,19 +121,19 @@
 						<div class="flexslider">
 							<ul class="slides">
 								<li>
-                                                                    <img src="images/school1.jpg" alt="">
+                                                                    <img src="../images/school1.jpg" alt="">
 									<div class="flex-caption">
 										<p>το</p>
 									</div>
 								</li>
 								<li>
-                                                                    <img src="images/school2.jpg" alt="" >
+                                                                    <img src="../images/school2.jpg" alt="" >
 									<div class="flex-caption c2">
 										<p>σχολειο</p>
 									</div>
 								</li>
 								<li>
-                                                                    <img src="images/school1.jpg" alt="">
+                                                                    <img src="../images/school1.jpg" alt="">
 									<div class="flex-caption">
 										<p>μας</p>
 									</div>
@@ -157,18 +157,18 @@
 						<div id="owl">
 							
 							<div class="item it1">
-                                                            <a href="#"><img src="images/albert.png" alt=""> <br>
+                                                            <a href="#"><img src="../images/albert.png" alt=""> <br>
 								<i>Παιδεία είναi αυτό που μένει, όταν έχεις ξεχάσεις όσα έμαθες στο σχολείο</i><br>
                                                                 Αϊνσταιν <br>
 								</a>
 							</div>
 							<div class="item it2">
-                                                            <a href="#"><img src="images/aristo.png" alt=""> <br>
+                                                            <a href="#"><img src="../images/aristo.png" alt=""> <br>
                                                                 <i> Οι ρίζες της εκπαιδευσης πικρές, μα οι καρποί γλυκοί</i> 
                                                                 Αριστοτελης <br><br></a>
 							</div>
 							<div class="item it3">
-                                                            <a href="#"><img src="images/nelson.png" alt=""> <br>
+                                                            <a href="#"><img src="../images/nelson.png" alt=""> <br>
                                                                 <i>Η εκπαίδευση είναι το πιο ισχυρό όπλο για να αλλάξεις τον κόσμο.</i><br>
 								Νέλσον Μαντελα</a>
 							</div>
@@ -224,7 +224,7 @@
                                                 <font color="660066">ν</font> <font color="663333">ω</font> <font color="006600">ν</font>
                                                 <font color="FF0066">ι</font> <font color="003300">α</font> 
                                             </h3>
-						<img src="images/page1_img8.jpg" alt="" class="img_inner fleft">
+						<img src="../images/page1_img8.jpg" alt="" class="img_inner fleft">
 						<div class="extra_wrapper">
 							<p>Το σχολείο μας στεγάζεται στο Σκούταρι Σερρών. Πατήστε παρακάτω για πλοήγηση στο χάρτη <span class="col1"><a href=" http://blog.templatemonster.com/free-website-templates/" rel="dofollow">εδώ</a></span>.</p>
 							Αν θέλετε να επικοινωνήσετε πατήστε παρακάτω. 

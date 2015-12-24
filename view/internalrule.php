@@ -1,20 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>Δράσεις</title>
+		<title>Εσωτερικος Κανονισμος</title>
 		<meta charset="utf-8">
 		<meta name = "format-detection" content = "telephone=no" />
 		<link rel="icon" href="images/favicon.ico">
 		<link rel="shortcut icon" href="images/favicon.ico" />
-		<link rel="stylesheet" href="css/style.css">
-		<script src="js/jquery.js"></script>
-		<script src="js/jquery-migrate-1.1.1.js"></script>
-		<script src="js/script.js"></script> 
-		<script src="js/jquery.ui.totop.js"></script>
-		<script src="js/superfish.js"></script>
-		<script src="js/jquery.equalheights.js"></script>
-		<script src="js/jquery.mobilemenu.js"></script>
-		<script src="js/jquery.easing.1.3.js"></script>
+		<link rel="stylesheet" href="../css/style.css">
+		<script src="../js/jquery.js"></script>
+		<script src="../js/jquery-migrate-1.1.1.js"></script>
+		<script src="../js/script.js"></script>
+		<script src="../js/jquery.ui.totop.js"></script>
+		<script src="../js/superfish.js"></script>
+		<script src="../js/jquery.equalheights.js"></script>
+		<script src="../js/jquery.mobilemenu.js"></script>
+		<script src="../js/jquery.easing.1.3.js"></script>
 		<script>
 			$(document).ready(function(){
 				$().UItoTop({ easingType: 'easeOutQuart' });
@@ -28,8 +28,8 @@
 		</div>
 		<![endif]-->
 		<!--[if lt IE 9]>
-			<script src="js/html5shiv.js"></script>
-			<link rel="stylesheet" media="screen" href="css/ie.css">
+		<script src="../js/html5shiv.js"></script>
+		<link rel="stylesheet" media="screen" href="../css/ie.css">
 		<![endif]-->
 	</head>
 	<body class="" id="top">
@@ -40,7 +40,7 @@
 				<div class="grid_12">
 					<h1>
 						<a href="index.html">
-							<img src="images/logo.png" alt="Your Happy Family">
+							<img src="../images/logo.png" alt="Your Happy Family">
 						</a>
 					</h1>
 					<div class="menu_block">
@@ -66,49 +66,12 @@
 			<div class="content"><div class="ic">More Website Templates @ TemplateMonster.com - December 16, 2013!</div>
 				<div class="container_12">
 					<div class="grid_8">
-						<h2>Δρασεις</h2>
-						<div class="blog">
-							<img src="images/page3_img1.jpg" alt="" class="img_inner fleft">
-							<div class="extra_wrapper">
-								<p class="col1"><a href="#">Δραση 1</a></p>
-								<div class="blog_info">
-									<time datetime="2013-01-01">14-12-2013 </time>
-									<a href="#" class="user">admin</a>
-									<a href="#" class="comment">23</a>
-								</div>
-                                                                Το σχολείο μας πραγματοποίησε την Δράση 1. Πατήστε παρακάτω να δείτε τις φωτογραφίες μας
-								<br>
-								<a href="#" class="btn">RΠερισσοτερα</a>
-							</div>
+						<h3>Εσωτερικος Κανονισμος</h3>
+						<img src="../images/page4_img1.jpg" alt="" class="img_inner fleft">
+						<div class="extra_wrapper">
+                                                    <p class="p1 col1">Εδω περιγράφεται ο εσωτερικός κανονισμος του σχολείου μας </p>
 						</div>
-						<div class="blog">
-							<img src="images/page3_img2.jpg" alt="" class="img_inner fleft">
-							<div class="extra_wrapper">
-								<p class="col1"><a href="#">Δραση2</a></p>
-								<div class="blog_info">
-									<time datetime="2013-01-01">14-12-2013 </time>
-									<a href="#" class="user">admin</a>
-									<a href="#" class="comment">23</a>
-								</div>Το σχολείο μας πραγματοποίησε την Δράση 2. Πατήστε παρακάτω να δείτε τις φωτογραφίες μας
-								<br>
-								<a href="#" class="btn">περισσοτερα</a>
-							</div>
-						</div>
-						<div class="blog">
-							<img src="images/page3_img3.jpg" alt="" class="img_inner fleft">
-							<div class="extra_wrapper">
-								<p class="col1"><a href="#">Δράση 3</a></p>
-								<div class="blog_info">
-									<time datetime="2013-01-01">14-12-2013 </time>
-									<a href="#" class="user">admin</a>
-									<a href="#" class="comment">23</a>
-								</div>Το σχολείο μας πραγματοποίησε την Δράση 3. Πατήστε παρακάτω να δείτε τις φωτογραφίες μας
-								<br>
-								<a href="#" class="btn">περισσοτερα</a>
-							</div>
-						</div>
-					</div>
-                                    </div>
+						<div class="clear"></div>
 					</div>
 				</div>
 			</div>

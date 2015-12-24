@@ -9,19 +9,19 @@
                 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text.css'/>
 		<link rel="icon" href="images/favicon.ico">
 		<link rel="shortcut icon" href="images/favicon.ico" />
-		<link rel="stylesheet" href="css/form.css">
-		<link rel="stylesheet" href="css/style.css">
-                <link href="css/styleuser.css" rel='stylesheet' type='text/css' />
-		<script src="js/jquery.js"></script>
-		<script src="js/jquery-migrate-1.1.1.js"></script>
-		<script src="js/script.js"></script> 
-		<script src="js/jquery.ui.totop.js"></script>
-		<script src="js/superfish.js"></script>
-		<script src="js/jquery.equalheights.js"></script>
-		<script src="js/jquery.mobilemenu.js"></script>
-		<script src="js/jquery.easing.1.3.js"></script>
-		<script src="js/TMForm.js"></script>
-                <script src="js/kwiks.js"></script>
+		<link rel="stylesheet" href="../css/form.css">
+		<link rel="stylesheet" href="../css/style.css">
+                <link href="../css/styleuser.css" rel='stylesheet' type='text/css' />
+		<script src="../js/jquery.js"></script>
+		<script src="../js/jquery-migrate-1.1.1.js"></script>
+		<script src="../js/script.js"></script>
+		<script src="../js/jquery.ui.totop.js"></script>
+		<script src="../js/superfish.js"></script>
+		<script src="../js/jquery.equalheights.js"></script>
+		<script src="../js/jquery.mobilemenu.js"></script>
+		<script src="../js/jquery.easing.1.3.js"></script>
+		<script src="../js/TMForm.js"></script>
+                <script src="../js/kwiks.js"></script>
                 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 		<script>
 			$(document).ready(function(){
@@ -36,8 +36,8 @@
 		</div>
 		<![endif]-->
 		<!--[if lt IE 9]>
-			<script src="js/html5shiv.js"></script>
-			<link rel="stylesheet" media="screen" href="css/ie.css">
+		<script src="../js/html5shiv.js"></script>
+		<link rel="stylesheet" media="screen" href="../css/ie.css">
 		<![endif]-->
 	</head>
 	<body class="" id="top">
@@ -48,7 +48,7 @@
 				<div class="grid_12">
 					<h1>
                                             <a href="index.php">
-							<img src="images/logo.png" alt="Your Happy Family">
+							<img src="../images/logo.png" alt="Your Happy Family">
 						</a>
 					</h1>
 					<div class="menu_block">
